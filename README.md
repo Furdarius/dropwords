@@ -26,14 +26,14 @@ CSS file for customatization. Fast integration in your projects.
 </script>
 ```
 
-### Options:
-	* `resBlockSelector`: // Selector for results block
-	* `rowSelector`: // Selector for results list elems ( Default: "ul > li" )
-	* `curRowClass`: // If you press arrows button, choosen list elem get this class ( Default: "targeted" )
-	* `url`: // Handler script path ( Default: "search.php" )
-	* `valuePostName`: // Handler script: $_POST[ 'value' ] — input data ( Default: "value" )
-	* `postAction`: // $_POST[ 'action' ] value ( Default: "search" )
-	* `params`: // Params, that u can send with input data ( Default: {} )
-	* `minChars`: // Min characters for ajax request ( Default: 2 )
-	* `rowsSelection`: // Can user use arrow buttons ( Default: true )
-	* `autoFill`: // Type chosed info at input ( Default: true )
+# Options:
+	* `resBlockSelector`: Selector for results block
+	* `rowSelector`: Selector for results list elems ( Default: "ul > li" )
+	* `curRowClass`: If you press arrows button, choosen list elem get this class ( Default: "targeted" )
+	* `url`: Handler script path ( Default: "search.php" )
+	* `valuePostName`: Handler script: $_POST[ 'value' ] — input data ( Default: "value" )
+	* `postAction`: $_POST[ 'action' ] value ( Default: "search" )
+	* `params`: Params, that u can send with input data ( Default: {} )
+	* `minChars`: Min characters for ajax request ( Default: 2 )
+	* `rowsSelection`: Can user use arrow buttons ( Default: true )
+	* `autoFill`: Type chosed info at input ( Default: true )
