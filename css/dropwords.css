@@ -1,0 +1,35 @@
+#variants {
+	position: absolute;
+	margin-top: 60px;
+	margin-left: 149px;
+	z-index: 800;
+	background: #fff;
+	width: 419px;
+	-webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+	-moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+	overflow: hidden;
+	padding: 0px;
+	display: none;
+}
+
+#variants ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: left;
+	overflow: hidden;
+	font-size: 0.77em;
+}
+
+#variants ul > li {
+	padding: 8px 0 8px 8px;
+	cursor: pointer;
+}
+
+#variants ul > li:hover {
+	background: #dddddd;
+}
+#variants ul > li.targeted {
+	background: #dddddd;
+}
