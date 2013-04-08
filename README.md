@@ -2,9 +2,9 @@
 
 DROPWORDS — Jquery plugin for easy autocomplete. Advantages of this plugin are small size, easy install.
 CSS file for customatization. Fast integration in your projects.
-https://www.dropbox.com/s/ky7sa41x51at19y/dropwords_plugin.png
 
-[![Dropwords example](https://dl.dropbox.com/s/ky7sa41x51at19y/dropwords_plugin.png?token_hash=AAHoOXpBANW_DWWQ1vQtftXT90MOipEHX882leWM0OqSSw&dl=1)](https://flattr.com/submit/auto?user_id=balupton&url=https://github.com/balupton/history.js&title=History.js&language=&tags=github&category=software)
+
+[![Dropwords example](https://dl.dropbox.com/s/ky7sa41x51at19y/dropwords_plugin.png?token_hash=AAHoOXpBANW_DWWQ1vQtftXT90MOipEHX882leWM0OqSSw&dl=1)](https://github.com/Furdarius/dropwords)
 
 ### Working with Dropwords:
 
